@@ -1,5 +1,5 @@
 
-### Junior Cloud & Network Engineer  
+### Junior Cloud & DevOps Engineer  
 Currently learning and building real AWS cloud projects based on EC2, S3, CloudFront, Load Balancing, and Auto Scaling.
 
 ---
